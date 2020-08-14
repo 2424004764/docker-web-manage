@@ -17,7 +17,7 @@ import Menu from './menu'
 
 const menus = [
   { label: '面板首页', icon: 'fa fa-dashboard', path: '/admin' },
-  { label: '容器管理', icon: 'fa fa-dot-circle-o', path: '/images' },
+  { label: '镜像管理', icon: 'fa fa-dot-circle-o', path: '/images' },
   // {
   //   label: 'GROUP 1',
   //   type: 'group',

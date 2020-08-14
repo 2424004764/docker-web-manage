@@ -126,10 +126,6 @@ export default {
       if (typeof data === 'object' && data !== null) {
         this.navigation = data
       }
-      // // 默认去面板首页
-      // this.$router.push({
-      //   path: '/adminIndex'
-      // })
     } catch (err) {
       console.log(err)
     }
@@ -140,3 +136,7 @@ export default {
   }
 }
 </script>
+
+<style lang="sass" scope>
+  
+</style>
